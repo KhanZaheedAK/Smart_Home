@@ -1,7 +1,7 @@
 #include <WiFiS3.h>
 
-char ssid[] = "Airtel_reha_2398";
-char pass[] = "air72751";
+char ssid[] = "Your_Wifi";
+char pass[] = "Password";
 
 WiFiServer server(80);
 
